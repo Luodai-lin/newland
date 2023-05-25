@@ -1,2 +1,2 @@
 # newla
-[bing]（https://www.baidu.com）
+[bing](https://www.baidu.com）
